@@ -1,4 +1,5 @@
 import subprocess
+import os
 
 # Iniciar ambiente virtual
 subprocess.call(['python', '-m', 'venv', 'venv'])
